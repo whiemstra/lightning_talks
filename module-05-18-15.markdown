@@ -34,7 +34,7 @@
 * Patrick Medaugh
 * Minnie Lee: Sonic Pi: A teaching tool for children to learn Ruby by making music
 * Tess Griffin
-* Whitney Hiemstra: "Medical Devices: The Good, The Bad, The … What the Hell?"
+* Whitney Hiemstra: "Medical Devices: The Good, The Awesome, The Weird"
 * Erik Butcher: "Avoidance, Flocking, and the Art of Bullet Hell"
 * Margarett Ly
 
